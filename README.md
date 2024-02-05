@@ -1,5 +1,7 @@
 Link to page: http://pazodimi.webpages.auth.gr/3902partB/
 
+![image](https://github.com/raccoote/Educational-Website/assets/74006924/7a6081fd-2628-421a-a6f4-fd3ae9399c7c)
+
 
 **Εισαγωγή**
 
