@@ -1,1 +1,1 @@
-Link to page: PythonPawPals - Educational Website for Python Programming 
+Link to page: http://pazodimi.webpages.auth.gr/3902partB/
